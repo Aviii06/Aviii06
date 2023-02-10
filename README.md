@@ -2,7 +2,7 @@
 
 - I like low level programming.
 
-- I’m currently working on [Newton](https://github.com/Aviii06/newton) and [Rootex](https://github.com/sdslabs/Rootex)
+- I’m currently working on [Vivid](https://github.com/Aviii06/Vivid) and [Rootex](https://github.com/sdslabs/Rootex)
 
 ---
 
