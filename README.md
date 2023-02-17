@@ -1,9 +1,5 @@
 ### Hi I am Archit Gosain👋
 
-- like low level programming.
-
-
-
 ---
 
 Portfolio: http://portfolio.aviii.me/
