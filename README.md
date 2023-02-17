@@ -1,8 +1,8 @@
 ### Hi I am Archit Gosain👋
 
-- I like low level programming.
+- like low level programming.
 
-- I’m currently working on [Vivid](https://github.com/Aviii06/Vivid) and [Rootex](https://github.com/sdslabs/Rootex)
+
 
 ---
 
