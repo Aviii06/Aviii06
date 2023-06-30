@@ -2,7 +2,7 @@
 
 ---
 
-Portfolio: http://portfolio.aviii.me/
+Portfolio: http://aviii06.github.io/Portfolio
 
 Blogs: http://blog.aviii.me/
 
