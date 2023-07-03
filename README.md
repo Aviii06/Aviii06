@@ -4,7 +4,7 @@
 
 Portfolio: http://aviii06.github.io/Portfolio
 
-Blogs: http://blog.aviii.me/
+Blogs: https://aviii06.github.io/blogs/
 
 ![](https://github-readme-stats.vercel.app/api?username=Aviii06&theme=dark&hide_rank=true&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
 
