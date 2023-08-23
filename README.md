@@ -4,6 +4,8 @@
 
 Portfolio: http://aviii06.github.io/Portfolio
 
+Acad Portfolio: http://aviii06.github.io
+
 Blogs: https://aviii06.github.io/blogs/
 
 Vivid: https://aviii06.github.io/Vivid/
